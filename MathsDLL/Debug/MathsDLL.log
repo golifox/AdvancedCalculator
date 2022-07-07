@@ -1,0 +1,5 @@
+﻿  MathsDLL.cpp
+D:\Archives\MathsDLL\MathsDLL\MathsDLL\MathsDLL.cpp(86,45): warning C4566:  символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+D:\Archives\MathsDLL\MathsDLL\MathsDLL\MathsDLL.cpp(96,11): warning C4566:  символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+D:\Archives\MathsDLL\MathsDLL\MathsDLL\MathsDLL.cpp(177,22): warning C4566:  символ, представленный универсальным именем символа "\u221A", невозможно представить в текущей кодовой странице (1251)
+  MathsDLL.vcxproj -> D:\Archives\MathsDLL\MathsDLL\Debug\MathsDLL.dll

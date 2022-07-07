@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(789,1): warning C4996:  'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message :   см. объявление "strcpy"
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(829,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(863,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(904,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(945,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(986,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1027,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1068,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1109,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1150,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1191,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1266,13): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+D:\Archives\MathsDLL\MathsDLL\Calculator\MyForm.h(1534,14): warning C4244:  инициализация: преобразование "wchar_t" в "char", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> D:\Archives\MathsDLL\MathsDLL\Debug\Calculator.exe
